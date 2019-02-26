@@ -1,0 +1,14 @@
+TS w JSDoc
+
+1. do you even JS/TS?
+
+2. 1st contact with TS = TS language + .ts + compile + tsc + tsconfig + .d.ts + wtf
+
+3. Code mess example
+
+4. There's a different way = JSDoc - Incremental implementation, most features of TS, Documentation, full VSCode support
+
+5. JSDoc annotation + Nice code example
+
+
+
